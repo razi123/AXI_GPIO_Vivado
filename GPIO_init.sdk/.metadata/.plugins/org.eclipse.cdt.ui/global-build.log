@@ -1,0 +1,1150 @@
+17:52:51 **** Build of project gpio_led_bsp ****
+make -k all 
+"Running Make include in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/canps_v3_2/src"
+make -C psu_cortexa53_0/libsrc/canps_v3_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/clockps_v1_0/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/coresightps_dcc_v1_4/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/csudma_v1_3/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_3/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/emacps_v3_8/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_8/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpiops_v3_4/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/gpio_v4_3/src"
+make -C psu_cortexa53_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/iicps_v3_8/src"
+make -C psu_cortexa53_0/libsrc/iicps_v3_8/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ipipsu_v2_4/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/pciepsu_v1_0/src"
+make -C psu_cortexa53_0/libsrc/pciepsu_v1_0/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/qspipsu_v1_8/src"
+make -C psu_cortexa53_0/libsrc/qspipsu_v1_8/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/rtcpsu_v1_6/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/scugic_v3_10/src"
+make -C psu_cortexa53_0/libsrc/scugic_v3_10/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sdps_v3_6/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/standalone_v6_8/src"
+make -C psu_cortexa53_0/libsrc/standalone_v6_8/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/ttcps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/usbpsu_v1_4/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_4/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/video_common_v4_5/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_5/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make include in psu_cortexa53_0/libsrc/zdma_v1_6/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_6/src -s include  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Running Make libs in psu_cortexa53_0/libsrc/avbuf_v2_2/src"
+make -C psu_cortexa53_0/libsrc/avbuf_v2_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling avbuf"
+aarch64-none-elf-ar: creating ../../../lib/libxil.a
+"Running Make libs in psu_cortexa53_0/libsrc/axipmon_v6_7/src"
+make -C psu_cortexa53_0/libsrc/axipmon_v6_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling axipmon"
+"Running Make libs in psu_cortexa53_0/libsrc/canps_v3_2/src"
+make -C psu_cortexa53_0/libsrc/canps_v3_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling canps"
+"Running Make libs in psu_cortexa53_0/libsrc/clockps_v1_0/src"
+make -C psu_cortexa53_0/libsrc/clockps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling clockps"
+"Running Make libs in psu_cortexa53_0/libsrc/coresightps_dcc_v1_4/src"
+make -C psu_cortexa53_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src"
+make -C psu_cortexa53_0/libsrc/cpu_cortexa53_v1_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling cpu_cortexa53"
+"Running Make libs in psu_cortexa53_0/libsrc/csudma_v1_3/src"
+make -C psu_cortexa53_0/libsrc/csudma_v1_3/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling csudma"
+"Running Make libs in psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src"
+make -C psu_cortexa53_0/libsrc/ddrcpsu_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ddrcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/dpdma_v1_1/src"
+make -C psu_cortexa53_0/libsrc/dpdma_v1_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling dpdma"
+"Running Make libs in psu_cortexa53_0/libsrc/emacps_v3_8/src"
+make -C psu_cortexa53_0/libsrc/emacps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in psu_cortexa53_0/libsrc/gpiops_v3_4/src"
+make -C psu_cortexa53_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in psu_cortexa53_0/libsrc/gpio_v4_3/src"
+make -C psu_cortexa53_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in psu_cortexa53_0/libsrc/iicps_v3_8/src"
+make -C psu_cortexa53_0/libsrc/iicps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling iicps"
+"Running Make libs in psu_cortexa53_0/libsrc/ipipsu_v2_4/src"
+make -C psu_cortexa53_0/libsrc/ipipsu_v2_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ipipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/pciepsu_v1_0/src"
+make -C psu_cortexa53_0/libsrc/pciepsu_v1_0/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling pciepsu"
+"Running Make libs in psu_cortexa53_0/libsrc/qspipsu_v1_8/src"
+make -C psu_cortexa53_0/libsrc/qspipsu_v1_8/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling qspipsu"
+"Running Make libs in psu_cortexa53_0/libsrc/resetps_v1_2/src"
+make -C psu_cortexa53_0/libsrc/resetps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling resetps"
+"Running Make libs in psu_cortexa53_0/libsrc/rtcpsu_v1_6/src"
+make -C psu_cortexa53_0/libsrc/rtcpsu_v1_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling rtcpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/scugic_v3_10/src"
+make -C psu_cortexa53_0/libsrc/scugic_v3_10/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in psu_cortexa53_0/libsrc/sdps_v3_6/src"
+make -C psu_cortexa53_0/libsrc/sdps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in psu_cortexa53_0/libsrc/standalone_v6_8/src"
+make -C psu_cortexa53_0/libsrc/standalone_v6_8/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling standalone A53"
+In file included from xil_sleeptimer.c:51:0:
+xtime_l.h:77:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:52:0:
+xtime_l.h:77:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:59:0:
+xtime_l.h:77:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src"
+make -C psu_cortexa53_0/libsrc/sysmonpsu_v2_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling sysmonpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/ttcps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/ttcps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in psu_cortexa53_0/libsrc/uartps_v3_7/src"
+make -C psu_cortexa53_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in psu_cortexa53_0/libsrc/usbpsu_v1_4/src"
+make -C psu_cortexa53_0/libsrc/usbpsu_v1_4/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling usbpsu"
+"Running Make libs in psu_cortexa53_0/libsrc/video_common_v4_5/src"
+make -C psu_cortexa53_0/libsrc/video_common_v4_5/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling video_common"
+"Running Make libs in psu_cortexa53_0/libsrc/wdtps_v3_1/src"
+make -C psu_cortexa53_0/libsrc/wdtps_v3_1/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling wdtps"
+"Running Make libs in psu_cortexa53_0/libsrc/zdma_v1_6/src"
+make -C psu_cortexa53_0/libsrc/zdma_v1_6/src -s libs  "SHELL=CMD" "COMPILER=aarch64-none-elf-gcc" "ARCHIVER=aarch64-none-elf-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-g -Wall -Wextra"
+"Compiling zdma"
+'Finished building libraries'
+17:54:55 **** Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:62:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:63:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:63:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:66:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                 ^
+../src/helloworld.c:66:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                         ^
+../src/helloworld.c:66:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                            ^~~
+../src/helloworld.c:67:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:67:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:67:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:70:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:70:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:70:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+17:55:39 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  75784	   4616	  20736	 101136	  18b10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+17:56:07 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:62:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:63:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:63:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:66:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                 ^
+../src/helloworld.c:66:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                         ^
+../src/helloworld.c:66:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                            ^~~
+../src/helloworld.c:67:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:67:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:67:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:70:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:70:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:70:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+17:59:51 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                            ^~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:69:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:72:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:00:25 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                            ^~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:69:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:72:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:09:09 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xFFFF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFF);
+                                            ^~~~~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:69:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:72:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:20:22 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xF);
+                                            ^~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                         ^
+../src/helloworld.c:69:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2, 0xF);
+                                            ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                          ^
+../src/helloworld.c:72:45: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1, 0x0);
+                                             ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:34:14 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1,0xFFFFFFFF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1,0xFFFFFFFF);
+                                         ^
+../src/helloworld.c:68:43: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1,0xFFFFFFFF);
+                                           ^~~~~~~~~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                         ^
+../src/helloworld.c:69:43: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                           ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                          ^
+../src/helloworld.c:72:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                            ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:34:37 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:64:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:679:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_0_DEVICE_ID 0
+                                   ^
+../src/helloworld.c:64:34: note: in expansion of macro 'XPAR_AXI_GPIO_0_DEVICE_ID'
+     int XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);
+                                  ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:65:26: error: expected declaration specifiers or '...' before '&' token
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                          ^
+In file included from ../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:12:0,
+                 from ../src/helloworld.c:50:
+../../gpio_led_bsp/psu_cortexa53_0/include/xparameters.h:687:35: error: expected declaration specifiers or '...' before numeric constant
+ #define XPAR_AXI_GPIO_1_DEVICE_ID 1
+                                   ^
+../src/helloworld.c:65:35: note: in expansion of macro 'XPAR_AXI_GPIO_1_DEVICE_ID'
+     int XGpio_Initialize(&outLed, XPAR_AXI_GPIO_1_DEVICE_ID);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                            ^~~~~~~~~~
+../src/helloworld.c:69:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                 ^
+../src/helloworld.c:69:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                         ^
+../src/helloworld.c:69:43: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 2,0xF);
+                                           ^~~
+../src/helloworld.c:72:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                 ^
+../src/helloworld.c:72:42: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                          ^
+../src/helloworld.c:72:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&outLed, 1,0x0);
+                                            ^~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:34:52 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:68:33: error: expected declaration specifiers or '...' before '&' token
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                 ^
+../src/helloworld.c:68:41: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                         ^
+../src/helloworld.c:68:44: error: expected declaration specifiers or '...' before numeric constant
+     void XGpio_SetDataDirection(&input, 1, 0xFFFFFFFF);
+                                            ^~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+18:35:08 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76104	   4616	  20736	 101456	  18c50	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:35:17 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76104	   4616	  20736	 101456	  18c50	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:35:28 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:35:33 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:35:36 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:36:12 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+18:46:00 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+18:46:48 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+18:47:51 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+18:48:41 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:13:16 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:22:16 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76360	   4664	  20752	 101776	  18d90	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:23:38 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:25:08 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:27:44 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76360	   4664	  20752	 101776	  18d90	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:37:57 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:81:6: error: too many arguments to function 'print'
+      print("switch_data = %d", switch_data);
+      ^~~~~
+In file included from ../src/helloworld.c:50:0:
+../../gpio_led_bsp/psu_cortexa53_0/include/xil_printf.h:40:6: note: declared here
+ void print( const char8 *ptr);
+      ^~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+19:38:11 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:38:51 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:39:52 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:40:44 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76376	   4664	  20800	 101840	  18dd0	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:41:43 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:41:55 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:44:30 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76464	   4664	  20776	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:45:36 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:48:17 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:48:33 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:50:39 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:50:51 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:52:08 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:52:18 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:53:37 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:53:46 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:53:59 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+19:55:13 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+19:55:28 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+20:13:34 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:62:9: warning: variable 'switch_data' set but not used [-Wunused-but-set-variable]
+     int switch_data = 0;
+         ^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76440	   4664	  20800	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+20:13:40 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76464	   4664	  20776	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+20:14:52 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
+20:16:46 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76464	   4664	  20776	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+20:18:55 **** Auto Build of configuration Debug for project gpio_led ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v8 gcc compiler'
+aarch64-none-elf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -I../../gpio_led_bsp/psu_cortexa53_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio_led.elf'
+'Invoking: ARM v8 gcc linker'
+aarch64-none-elf-gcc -Wl,-T -Wl,../src/lscript.ld -L../../gpio_led_bsp/psu_cortexa53_0/lib -o "gpio_led.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio_led.elf'
+' '
+'Invoking: ARM v8 Print Size'
+aarch64-none-elf-size gpio_led.elf  |tee "gpio_led.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  76464	   4664	  20776	 101904	  18e10	gpio_led.elf
+'Finished building: gpio_led.elf.size'
+' '
+20:19:01 **** Incremental Build of configuration Debug for project gpio_led ****
+make all 
+make: Nothing to be done for 'all'.
